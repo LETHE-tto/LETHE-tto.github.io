@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LETHE-tto.github.io</id>
-    <title>🐟</title>
-    <updated>2020-04-02T06:53:56.664Z</updated>
+    <title>兔子兔子在哪里</title>
+    <updated>2020-04-02T14:52:57.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://LETHE-tto.github.io"/>
     <link rel="self" href="https://LETHE-tto.github.io/atom.xml"/>
     <subtitle>知新而不知心</subtitle>
     <logo>https://LETHE-tto.github.io/images/avatar.png</logo>
     <icon>https://LETHE-tto.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 🐟</rights>
+    <rights>All rights reserved 2020, 兔子兔子在哪里</rights>
     <entry>
         <title type="html"><![CDATA[小白笔记：U盘重装Win7的全过程]]></title>
         <id>https://LETHE-tto.github.io/post/xiao-bai-bi-ji-yong-qi-dong-pan-chong-zhuang-win7-de-guo-cheng/</id>
